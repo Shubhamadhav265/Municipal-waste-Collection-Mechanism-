@@ -1,6 +1,6 @@
 # Municipal-waste-Collection-Mechanism-
 
-[Landing Page](https://shubhamadhav265.github.io/Waste-Wipe/)
+[Landing Page of Current Working Project](https://shubhamadhav265.github.io/Waste-Wipe/)
 
 
 
