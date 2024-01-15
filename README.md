@@ -1,5 +1,9 @@
 # Municipal-waste-Collection-Mechanism-
 
+[Landing Page](https://shubhamadhav265.github.io/Waste-Wipe/)
+
+
+
 These are the screenshots of the output of implemented project.
 ![Home Page](<./Output/image%20(1).png>)
 
@@ -29,3 +33,4 @@ On of city specific
 
 Another one city specific analysis
 ![City Specific](<./Output/image (10).png>)
+
